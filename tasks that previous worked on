@@ -1,0 +1,80 @@
+# Project Tasks
+
+- [x] Phase 1: Analyze the Project
+  - [x] Understand project structure
+  - [x] Identify key components and pages
+  - [x] Analyze authentication implementation
+  - [x] Understand styling system and state management
+  - [x] Identify potential issues
+- [x] Phase 2: Implementation Plan
+  - [x] Draft step-by-step implementation plan
+  - [x] Present plan to user for review
+- [/] Phase 3: Implement Changes
+  - [x] 1. Branding Update (Procrastiview)
+  - [x] 2. Favicon Update
+  - [x] 3. Mobile UI Fix (Phone auth input)
+  - [x] 4. Global UI Glow Animation
+  - [x] 5. Profile Editing (username, full name)
+  - [x] 6. Fix Authentication (Email, Phone, Firebase session)
+  - [x] 7. Improve Country Code Selector (Searchable, flags, glass theme)
+  - [x] 8. Landing Experience (Dynamic product introduction sequence)
+  - [x] 9. Smart Entry Logic (Redirect based on auth state)
+  - [x] 10. Animated Product Tutorial (Code-based walkthrough)
+  - [x] 11. Tutorial End Screen
+- [x] Phase 4: Quality Verification
+  - [x] Verify TypeScript typings and build integrity
+  - [x] Verify responsive layout and mobile compatibility
+  - [x] Verify authentication functionality
+  - [x] Cross-browser glow animation compatibility tests
+  - [x] Code cleanliness and accessibility
+- [x] Debugging and Stabilization
+  - [x] Run diagnostics and fix issues until stable
+- [x] Phase 5: Refinements
+  - [x] 1. Favicon Correction (Use favicon.png instead of icon.svg)
+  - [x] 2. Fix Tutorial Visual Design (Use real UI components)
+- [x] Phase 6: Targeted Refinements
+  - [x] 1. Brand Animation Improvement (Letter merging)
+  - [x] 2. Logo Reveal Fix (Image fade/scale)
+  - [x] 3. Phone Authentication Mobile Layout Fix (Strict width containment)
+  - [x] 4. Country Code Selector Visibility Fix
+  - [x] 5. Tutorial Indicator ("TUTORIAL MODE" fixed badge)
+  - [x] 6. Skip Tutorial Option (Button to exit)
+  - [x] 7. Tutorial Animation Improvements (Streak details, celebration)
+  - [x] 8. Add Category Rearranging Animation
+  - [x] 9. Username Uniqueness Validation (Firebase check before save UI warning)
+- [x] Phase 7: Stabilization Patch
+  - [x] 1. Favicon Metadata (app/layout.tsx)
+  - [x] 2. Tutorial Category Completion Animation Missing
+  - [x] 3. Skip Tutorial Button Not Working
+  - [x] 4. Improve Streak Calendar Design
+  - [x] 5. Mobile Calendar Layout Fix
+  - [x] 6. Desktop Calendar Size Increase
+  - [x] 7. Streak Logs UI Improvement (Floating Modal)
+- [/] Phase 8: Comprehensive Stabilization & Features
+  - [x] 1. Logo Not Appearing After Intro Animation
+  - [x] 2. Empty Category Completion Bug
+  - [x] 3. Add Phone Number Field to Profile
+  - [x] 4. Password Requirement for Google Users (Link Credential)
+  - [x] 5. Profile Settings UI Improvement (2 Columns)
+  - [ ] 6. Tutorial Category Reorder Animation Hanging
+  - [x] 7. Mobile View Category Completion Section (Remove Tabs)
+  - [x] 8. Dashboard Title Change ("Daily Quest")
+  - [x] 9. Global Font Style Change (Times New Roman, Italic)
+  - [x] 10. Daily Quest Title Glow Effect
+  - [x] 11. Profile Icon Redesign (Heart shape)
+  - [x] 12. Profile Icon Animation (Inner character red glow)
+  - [x] 6. Tutorial Category Reorder Animation Hanging
+
+- [x] Phase 9: UI Animation Refinements
+  - [x] 1. Profile Heart Icon Letter Breathing Animation (Red glow exclusively on letter)
+  - [x] 2. Profile Page Avatar Shape Fix (Heart shape inside Profile Dashboard)
+  - [x] 3. Profile Heart Interaction Animation (Split into two halves)
+  - [x] 4. Tutorial Behavior Fix (Use real app logic/components instead of fake floating UI)
+  - [x] 5. Daily Quest Title Animation (Breathing blue glow, expand + fade effect)
+
+- [x] Phase 10: Authenticated Experience & Refinements
+  - [x] 1. Heart Break Animation Improvement (Zig-zag crack instead of straight line)
+  - [x] 2. Profile Letter Color Fix (Ensure letter is strictly red with red breathing glow)
+  - [x] 3. Profile Page Avatar Shape Consistency (Standardize heart shape across entire app)
+  - [x] 4. Authentication Validation Test (Validate Email/Password registration & login flow)
+  - [x] 5. Authentication Edge Case Handling (Verify failed login error propagation)
