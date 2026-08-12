@@ -5,13 +5,13 @@ in streak
 
 in theme section works well 
 
-    analyze the blog website int he blog folder and use that same these here
+analyze the blog website int he blog folder and use that same these here
     
-    make sure the color change that i made only affect the breating not the entire app view like breathign alone changes as per the them i choose... keep the breathing aniamtion effect of all the color even in graident type too... (what everycolor style still has a visible breathing style jsut by using that color themes)
+make sure the color change that i made only affect the breating not the entire app view like breathign alone changes as per the them i choose... keep the breathing aniamtion effect of all the color even in graident type too... (what everycolor style still has a visible breathing style jsut by using that color themes)
 
-    breathing effect for all over even when a tab is window is opened then the breathing of that window should also exist
+breathing effect for all over even when a tab is window is opened then the breathing of that window should also exist
 
-    rest all like whole web is kept in these 4 types in the blog use that same exact theme like sunrise, sunset, day, night auto should automatically animate from each session theme as per the time locally... use that same theme style for all over the apps in this website too, exact background, fonts, etc., (this should change over whole page not only home it includes changes of home, profile, category, progress, streak, etc., what ever there is eveything)        
+rest all like whole web is kept in these 4 types in the blog use that same exact theme like sunrise, sunset, day, night auto should automatically animate from each session theme as per the time locally... use that same theme style for all over the apps in this website too, exact background, fonts, etc., (this should change over whole page not only home it includes changes of home, profile, category, progress, streak, etc., what ever there is eveything)        
 
 make sure all the datas are stored in firebase lively like when changed then save that changes in firebase - should be live like if i cahnge anything in one device then automacally cahnge in all the device its connected to be wihtout refresh needed in all things like data, theme, style, etc., 
 
@@ -27,3 +27,5 @@ make sure it work as its needed to be for public data transfer
     when i looked using that public url sharing - http://localhost:3000/kailesh13
     in normal tab opens wihtout the validation passcode.. (needed to work ony if the validation is correct)
     in incognito = Something went wrong. Please try again later.(sould be abe to see what ever the mode or browser supposed to be)
+
+Make sure to have a overall graph, streak to show the overall activity
